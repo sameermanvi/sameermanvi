@@ -3,8 +3,6 @@
 Computer Science Engineering student  
 Interested in systems programming, backend development, and low-level software.
 
-I like learning by building things and understanding how they work under the hood.
-
 ---
 
 ## 🔧 Tech Stack
@@ -25,9 +23,14 @@ I like learning by building things and understanding how they work under the hoo
 - 🌐 Website: https://sameermanvi.me
 - 💻 GitHub: https://github.com/sameermanvi
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48"/>
+</p>
+---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameermanvi&show_icons=true&theme=tokyonight&hide_border=true)
 
