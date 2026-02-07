@@ -21,8 +21,6 @@ Interested in systems programming, backend development, and low-level software.
 
 ## 📫 Links
 - 🌐 Website: https://sameermanvi.me
-- 💻 GitHub: https://github.com/sameermanvi
-
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -32,5 +30,5 @@ Interested in systems programming, backend development, and low-level software.
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameermanvi)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sameermanvi)
 
