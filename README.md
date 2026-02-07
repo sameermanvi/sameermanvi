@@ -14,15 +14,6 @@ I like learning by building things and understanding how they work under the hoo
 
 ---
 
-## 📌 Projects
-- **CLI Task Manager (Go)**  
-  Terminal-based task manager with persistent storage using JSON.
-
-- **Personal Website**  
-  Static website built using *Anna SSG* for writing and experiments.
-
----
-
 ## 🌱 Currently Learning
 - Go internals and concurrency
 - C programming and memory concepts
@@ -38,5 +29,6 @@ I like learning by building things and understanding how they work under the hoo
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameermanvi&show_icons=true&theme=tokyonight&hide_border=true)
 
+---
