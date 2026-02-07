@@ -10,14 +10,10 @@ Interested in systems programming, backend development, and low-level software.
 - **Core CS:** Data Structures, File Systems, OS basics  
 - **Tools:** Git, Linux, CLI tools
 
----
-
 ## 🌱 Currently Learning
 - Go internals and concurrency
 - C programming and memory concepts
 - Backend and systems fundamentals
-
----
 
 ## 📫 Links
 - 🌐 Website: https://sameermanvi.me
@@ -29,6 +25,4 @@ Interested in systems programming, backend development, and low-level software.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 
-
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sameermanvi)
 
