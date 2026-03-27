@@ -1,19 +1,11 @@
 # Sameer 👋
 
 Computer Science Engineering student  
-Interested in systems programming, backend development, and low-level software.
-
 ---
 
 ## 🔧 Tech Stack
-- **Languages:** Go, C, Python  
-- **Core CS:** Data Structures, File Systems, OS basics  
+- **Languages:** C, Go, Python  
 - **Tools:** Git, Linux, CLI tools
-
-## 🌱 Currently Learning
-- Go internals and concurrency
-- C programming and memory concepts
-- Backend and systems fundamentals
 
 ## 📫 Links
 - 🌐 Website: https://sameermanvi.me
