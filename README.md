@@ -5,7 +5,7 @@ Computer Science Engineering student
 
 ## 🔧 Tech Stack
 - **Languages:** C, Go, Python  
-- **Tools:** Git, Linux, CLI tools
+- **Tools:** Git, Linux
 
 ## 📫 Links
 - 🌐 Website: https://sameermanvi.me
